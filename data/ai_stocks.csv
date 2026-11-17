@@ -14,7 +14,7 @@ Date,ticker,name,group,close
 2025-10-14,MU,Micron,AI semis,186.8478
 2025-10-14,NBIS,Nebius,AI cloud & data-center,128.15
 2025-10-14,NVDA,Nvidia,AI semis,179.5997
-2025-10-14,SPY,S&P 500 (SPY),S&P 500,655.1616
+2025-10-14,SPY,S&P 500 (SPY),S&P 500,655.1617
 2025-10-15,AAPL,Apple,Big Tech,248.2337
 2025-10-15,AMD,AMD,AI semis,238.6
 2025-10-15,AMZN,Amazon,Big Tech,215.57
@@ -22,15 +22,15 @@ Date,ticker,name,group,close
 2025-10-15,AVGO,Broadcom,AI semis,348.737
 2025-10-15,CORZ,Core Scientific,AI cloud & data-center,19.94
 2025-10-15,CRWV,CoreWeave,AI cloud & data-center,139.24
-2025-10-15,GOOGL,Alphabet,Big Tech,250.3789
+2025-10-15,GOOGL,Alphabet,Big Tech,250.3788
 2025-10-15,IREN,IREN,AI cloud & data-center,67.98
 2025-10-15,META,Meta,Big Tech,715.1242
 2025-10-15,MRVL,Marvell,AI semis,88.7404
-2025-10-15,MSFT,Microsoft,Big Tech,509.2401
+2025-10-15,MSFT,Microsoft,Big Tech,509.2402
 2025-10-15,MU,Micron,AI semis,191.7223
 2025-10-15,NBIS,Nebius,AI cloud & data-center,125.83
 2025-10-15,NVDA,Nvidia,AI semis,179.4002
-2025-10-15,SPY,S&P 500 (SPY),S&P 500,658.0703
+2025-10-15,SPY,S&P 500 (SPY),S&P 500,658.0704
 2025-10-16,AAPL,Apple,Big Tech,246.3521
 2025-10-16,AMD,AMD,AI semis,234.56
 2025-10-16,AMZN,Amazon,Big Tech,214.47
@@ -45,7 +45,7 @@ Date,ticker,name,group,close
 2025-10-16,MSFT,Microsoft,Big Tech,507.435
 2025-10-16,MU,Micron,AI semis,202.3002
 2025-10-16,NBIS,Nebius,AI cloud & data-center,123.04
-2025-10-16,NVDA,Nvidia,AI semis,181.3755
+2025-10-16,NVDA,Nvidia,AI semis,181.3754
 2025-10-16,SPY,S&P 500 (SPY),S&P 500,653.5887
 2025-10-17,AAPL,Apple,Big Tech,251.1706
 2025-10-17,AMD,AMD,AI semis,233.08
@@ -74,7 +74,7 @@ Date,ticker,name,group,close
 2025-10-20,IREN,IREN,AI cloud & data-center,59.22
 2025-10-20,META,Meta,Big Tech,729.6948
 2025-10-20,MRVL,Marvell,AI semis,85.6955
-2025-10-20,MSFT,Microsoft,Big Tech,512.5728
+2025-10-20,MSFT,Microsoft,Big Tech,512.5727
 2025-10-20,MU,Micron,AI semis,206.5354
 2025-10-20,NBIS,Nebius,AI cloud & data-center,109.0
 2025-10-20,NVDA,Nvidia,AI semis,182.2035
@@ -88,7 +88,7 @@ Date,ticker,name,group,close
 2025-10-21,CRWV,CoreWeave,AI cloud & data-center,125.06
 2025-10-21,GOOGL,Alphabet,Big Tech,249.8103
 2025-10-21,IREN,IREN,AI cloud & data-center,55.195
-2025-10-21,META,Meta,Big Tech,730.7911
+2025-10-21,META,Meta,Big Tech,730.7912
 2025-10-21,MRVL,Marvell,AI semis,84.1182
 2025-10-21,MSFT,Microsoft,Big Tech,513.4356
 2025-10-21,MU,Micron,AI semis,202.0605
@@ -104,10 +104,10 @@ Date,ticker,name,group,close
 2025-10-22,CRWV,CoreWeave,AI cloud & data-center,121.53
 2025-10-22,GOOGL,Alphabet,Big Tech,251.0371
 2025-10-22,IREN,IREN,AI cloud & data-center,51.83
-2025-10-22,META,Meta,Big Tech,730.9306
+2025-10-22,META,Meta,Big Tech,730.9307
 2025-10-22,MRVL,Marvell,AI semis,80.9136
 2025-10-22,MSFT,Microsoft,Big Tech,516.2921
-2025-10-22,MU,Micron,AI semis,198.2448
+2025-10-22,MU,Micron,AI semis,198.2449
 2025-10-22,NBIS,Nebius,AI cloud & data-center,98.62
 2025-10-22,NVDA,Nvidia,AI semis,179.8491
 2025-10-22,SPY,S&P 500 (SPY),S&P 500,660.6722
@@ -118,11 +118,11 @@ Date,ticker,name,group,close
 2025-10-23,AVGO,Broadcom,AI semis,341.749
 2025-10-23,CORZ,Core Scientific,AI cloud & data-center,18.06
 2025-10-23,CRWV,CoreWeave,AI cloud & data-center,123.34
-2025-10-23,GOOGL,Alphabet,Big Tech,252.4235
+2025-10-23,GOOGL,Alphabet,Big Tech,252.4236
 2025-10-23,IREN,IREN,AI cloud & data-center,55.86
 2025-10-23,META,Meta,Big Tech,731.5186
 2025-10-23,MRVL,Marvell,AI semis,82.6307
-2025-10-23,MSFT,Microsoft,Big Tech,516.3119
+2025-10-23,MSFT,Microsoft,Big Tech,516.312
 2025-10-23,MU,Micron,AI semis,206.4755
 2025-10-23,NBIS,Nebius,AI cloud & data-center,106.16
 2025-10-23,NVDA,Nvidia,AI semis,181.7246
@@ -139,7 +139,7 @@ Date,ticker,name,group,close
 2025-10-24,META,Meta,Big Tech,735.8638
 2025-10-24,MRVL,Marvell,AI semis,83.9884
 2025-10-24,MSFT,Microsoft,Big Tech,519.337
-2025-10-24,MU,Micron,AI semis,218.7715
+2025-10-24,MU,Micron,AI semis,218.7716
 2025-10-24,NBIS,Nebius,AI cloud & data-center,117.26
 2025-10-24,NVDA,Nvidia,AI semis,185.8148
 2025-10-24,SPY,S&P 500 (SPY),S&P 500,670.0214
@@ -154,11 +154,11 @@ Date,ticker,name,group,close
 2025-10-27,IREN,IREN,AI cloud & data-center,64.99
 2025-10-27,META,Meta,Big Tech,748.2818
 2025-10-27,MRVL,Marvell,AI semis,88.5607
-2025-10-27,MSFT,Microsoft,Big Tech,527.1826
+2025-10-27,MSFT,Microsoft,Big Tech,527.1825
 2025-10-27,MU,Micron,AI semis,219.8503
 2025-10-27,NBIS,Nebius,AI cloud & data-center,125.43
 2025-10-27,NVDA,Nvidia,AI semis,191.0323
-2025-10-27,SPY,S&P 500 (SPY),S&P 500,677.926
+2025-10-27,SPY,S&P 500 (SPY),S&P 500,677.9261
 2025-10-28,AAPL,Apple,Big Tech,267.8065
 2025-10-28,AMD,AMD,AI semis,258.01
 2025-10-28,AMZN,Amazon,Big Tech,229.25
@@ -184,13 +184,13 @@ Date,ticker,name,group,close
 2025-10-29,CRWV,CoreWeave,AI cloud & data-center,139.93
 2025-10-29,GOOGL,Alphabet,Big Tech,273.8578
 2025-10-29,IREN,IREN,AI cloud & data-center,60.42
-2025-10-29,META,Meta,Big Tech,749.1289
+2025-10-29,META,Meta,Big Tech,749.1288
 2025-10-29,MRVL,Marvell,AI semis,89.9982
 2025-10-29,MSFT,Microsoft,Big Tech,537.1306
 2025-10-29,MU,Micron,AI semis,226.3729
 2025-10-29,NBIS,Nebius,AI cloud & data-center,125.1
-2025-10-29,NVDA,Nvidia,AI semis,206.5451
-2025-10-29,SPY,S&P 500 (SPY),S&P 500,680.0532
+2025-10-29,NVDA,Nvidia,AI semis,206.5452
+2025-10-29,SPY,S&P 500 (SPY),S&P 500,680.0531
 2025-10-30,AAPL,Apple,Big Tech,270.1958
 2025-10-30,AMD,AMD,AI semis,254.84
 2025-10-30,AMZN,Amazon,Big Tech,222.86
@@ -216,10 +216,10 @@ Date,ticker,name,group,close
 2025-10-31,CRWV,CoreWeave,AI cloud & data-center,133.71
 2025-10-31,GOOGL,Alphabet,Big Tech,280.4606
 2025-10-31,IREN,IREN,AI cloud & data-center,60.75
-2025-10-31,META,Meta,Big Tech,646.1581
+2025-10-31,META,Meta,Big Tech,646.1582
 2025-10-31,MRVL,Marvell,AI semis,93.5822
 2025-10-31,MSFT,Microsoft,Big Tech,513.5844
-2025-10-31,MU,Micron,AI semis,223.5161
+2025-10-31,MU,Micron,AI semis,223.5162
 2025-10-31,NBIS,Nebius,AI cloud & data-center,130.82
 2025-10-31,NVDA,Nvidia,AI semis,202.006
 2025-10-31,SPY,S&P 500 (SPY),S&P 500,674.78
@@ -230,7 +230,7 @@ Date,ticker,name,group,close
 2025-11-03,AVGO,Broadcom,AI semis,359.8742
 2025-11-03,CORZ,Core Scientific,AI cloud & data-center,22.9
 2025-11-03,CRWV,CoreWeave,AI cloud & data-center,126.32
-2025-11-03,GOOGL,Alphabet,Big Tech,282.9841
+2025-11-03,GOOGL,Alphabet,Big Tech,282.984
 2025-11-03,IREN,IREN,AI cloud & data-center,67.75
 2025-11-03,META,Meta,Big Tech,635.5541
 2025-11-03,MRVL,Marvell,AI semis,90.2179
@@ -255,7 +255,7 @@ Date,ticker,name,group,close
 2025-11-04,NBIS,Nebius,AI cloud & data-center,110.54
 2025-11-04,NVDA,Nvidia,AI semis,198.2151
 2025-11-04,SPY,S&P 500 (SPY),S&P 500,668.0328
-2025-11-05,AAPL,Apple,Big Tech,268.9415
+2025-11-05,AAPL,Apple,Big Tech,268.9414
 2025-11-05,AMD,AMD,AI semis,256.33
 2025-11-05,AMZN,Amazon,Big Tech,250.2
 2025-11-05,APLD,Applied Digital,AI cloud & data-center,33.09
@@ -269,7 +269,7 @@ Date,ticker,name,group,close
 2025-11-05,MSFT,Microsoft,Big Tech,503.0213
 2025-11-05,MU,Micron,AI semis,237.2306
 2025-11-05,NBIS,Nebius,AI cloud & data-center,117.0
-2025-11-05,NVDA,Nvidia,AI semis,194.7434
+2025-11-05,NVDA,Nvidia,AI semis,194.7435
 2025-11-05,SPY,S&P 500 (SPY),S&P 500,670.3478
 2025-11-06,AAPL,Apple,Big Tech,268.5731
 2025-11-06,AMD,AMD,AI semis,237.7
@@ -296,7 +296,7 @@ Date,ticker,name,group,close
 2025-11-07,CRWV,CoreWeave,AI cloud & data-center,104.01
 2025-11-07,GOOGL,Alphabet,Big Tech,278.1067
 2025-11-07,IREN,IREN,AI cloud & data-center,62.38
-2025-11-07,META,Meta,Big Tech,619.6082
+2025-11-07,META,Meta,Big Tech,619.6083
 2025-11-07,MRVL,Marvell,AI semis,90.7669
 2025-11-07,MSFT,Microsoft,Big Tech,492.7657
 2025-11-07,MU,Micron,AI semis,237.6501
@@ -315,7 +315,7 @@ Date,ticker,name,group,close
 2025-11-10,META,Meta,Big Tech,629.6243
 2025-11-10,MRVL,Marvell,AI semis,93.0731
 2025-11-10,MSFT,Microsoft,Big Tech,501.8708
-2025-11-10,MU,Micron,AI semis,253.0127
+2025-11-10,MU,Micron,AI semis,253.0126
 2025-11-10,NBIS,Nebius,AI cloud & data-center,109.95
 2025-11-10,NVDA,Nvidia,AI semis,198.5743
 2025-11-10,SPY,S&P 500 (SPY),S&P 500,674.1667
@@ -339,7 +339,7 @@ Date,ticker,name,group,close
 2025-11-12,AMD,AMD,AI semis,258.89
 2025-11-12,AMZN,Amazon,Big Tech,244.2
 2025-11-12,APLD,Applied Digital,AI cloud & data-center,26.41
-2025-11-12,AVGO,Broadcom,AI semis,352.5984
+2025-11-12,AVGO,Broadcom,AI semis,352.5983
 2025-11-12,CORZ,Core Scientific,AI cloud & data-center,16.44
 2025-11-12,CRWV,CoreWeave,AI cloud & data-center,85.43
 2025-11-12,GOOGL,Alphabet,Big Tech,285.9663
@@ -374,7 +374,7 @@ Date,ticker,name,group,close
 2025-11-14,AVGO,Broadcom,AI semis,339.9325
 2025-11-14,CORZ,Core Scientific,AI cloud & data-center,14.93
 2025-11-14,CRWV,CoreWeave,AI cloud & data-center,77.36
-2025-11-14,GOOGL,Alphabet,Big Tech,275.693
+2025-11-14,GOOGL,Alphabet,Big Tech,275.6931
 2025-11-14,IREN,IREN,AI cloud & data-center,46.37
 2025-11-14,META,Meta,Big Tech,607.3997
 2025-11-14,MRVL,Marvell,AI semis,86.3045
@@ -383,7 +383,7 @@ Date,ticker,name,group,close
 2025-11-14,NBIS,Nebius,AI cloud & data-center,83.54
 2025-11-14,NVDA,Nvidia,AI semis,189.7155
 2025-11-14,SPY,S&P 500 (SPY),S&P 500,664.7582
-2025-11-17,AAPL,Apple,Big Tech,266.5315
+2025-11-17,AAPL,Apple,Big Tech,266.5314
 2025-11-17,AMD,AMD,AI semis,240.52
 2025-11-17,AMZN,Amazon,Big Tech,232.87
 2025-11-17,APLD,Applied Digital,AI cloud & data-center,22.935
@@ -398,7 +398,7 @@ Date,ticker,name,group,close
 2025-11-17,MU,Micron,AI semis,241.6755
 2025-11-17,NBIS,Nebius,AI cloud & data-center,85.98
 2025-11-17,NVDA,Nvidia,AI semis,186.154
-2025-11-17,SPY,S&P 500 (SPY),S&P 500,658.565
+2025-11-17,SPY,S&P 500 (SPY),S&P 500,658.5649
 2025-11-18,AAPL,Apple,Big Tech,266.5115
 2025-11-18,AMD,AMD,AI semis,230.29
 2025-11-18,AMZN,Amazon,Big Tech,222.55
@@ -415,16 +415,16 @@ Date,ticker,name,group,close
 2025-11-18,NBIS,Nebius,AI cloud & data-center,90.54
 2025-11-18,NVDA,Nvidia,AI semis,180.9265
 2025-11-18,SPY,S&P 500 (SPY),S&P 500,653.0347
-2025-11-19,AAPL,Apple,Big Tech,267.6276
+2025-11-19,AAPL,Apple,Big Tech,267.6277
 2025-11-19,AMD,AMD,AI semis,223.55
 2025-11-19,AMZN,Amazon,Big Tech,222.69
 2025-11-19,APLD,Applied Digital,AI cloud & data-center,23.09
-2025-11-19,AVGO,Broadcom,AI semis,351.8042
+2025-11-19,AVGO,Broadcom,AI semis,351.8043
 2025-11-19,CORZ,Core Scientific,AI cloud & data-center,15.39
 2025-11-19,CRWV,CoreWeave,AI cloud & data-center,74.92
 2025-11-19,GOOGL,Alphabet,Big Tech,292.0505
 2025-11-19,IREN,IREN,AI cloud & data-center,45.83
-2025-11-19,META,Meta,Big Tech,588.3243
+2025-11-19,META,Meta,Big Tech,588.3244
 2025-11-19,MRVL,Marvell,AI semis,81.1831
 2025-11-19,MSFT,Microsoft,Big Tech,483.1448
 2025-11-19,MU,Micron,AI semis,225.6637
@@ -458,11 +458,11 @@ Date,ticker,name,group,close
 2025-11-21,IREN,IREN,AI cloud & data-center,42.26
 2025-11-21,META,Meta,Big Tech,592.2411
 2025-11-21,MRVL,Marvell,AI semis,77.3196
-2025-11-21,MSFT,Microsoft,Big Tech,469.1436
-2025-11-21,MU,Micron,AI semis,207.1347
+2025-11-21,MSFT,Microsoft,Big Tech,469.1437
+2025-11-21,MU,Micron,AI semis,207.1348
 2025-11-21,NBIS,Nebius,AI cloud & data-center,83.26
 2025-11-21,NVDA,Nvidia,AI semis,178.4525
-2025-11-21,SPY,S&P 500 (SPY),S&P 500,651.9958
+2025-11-21,SPY,S&P 500 (SPY),S&P 500,651.9959
 2025-11-24,AAPL,Apple,Big Tech,274.9621
 2025-11-24,AMD,AMD,AI semis,215.05
 2025-11-24,AMZN,Amazon,Big Tech,226.28
@@ -478,7 +478,7 @@ Date,ticker,name,group,close
 2025-11-24,MU,Micron,AI semis,223.676
 2025-11-24,NBIS,Nebius,AI cloud & data-center,91.9
 2025-11-24,NVDA,Nvidia,AI semis,182.1137
-2025-11-24,SPY,S&P 500 (SPY),S&P 500,661.5923
+2025-11-24,SPY,S&P 500 (SPY),S&P 500,661.5922
 2025-11-25,AAPL,Apple,Big Tech,276.0084
 2025-11-25,AMD,AMD,AI semis,206.13
 2025-11-25,AMZN,Amazon,Big Tech,229.67
@@ -488,13 +488,13 @@ Date,ticker,name,group,close
 2025-11-25,CRWV,CoreWeave,AI cloud & data-center,71.29
 2025-11-25,GOOGL,Alphabet,Big Tech,322.601
 2025-11-25,IREN,IREN,AI cloud & data-center,47.47
-2025-11-25,META,Meta,Big Tech,634.0692
-2025-11-25,MRVL,Marvell,AI semis,83.2895
+2025-11-25,META,Meta,Big Tech,634.0691
+2025-11-25,MRVL,Marvell,AI semis,83.2896
 2025-11-25,MSFT,Microsoft,Big Tech,473.9829
 2025-11-25,MU,Micron,AI semis,224.2753
 2025-11-25,NBIS,Nebius,AI cloud & data-center,88.88
 2025-11-25,NVDA,Nvidia,AI semis,177.395
-2025-11-25,SPY,S&P 500 (SPY),S&P 500,667.8152
+2025-11-25,SPY,S&P 500 (SPY),S&P 500,667.8151
 2025-11-26,AAPL,Apple,Big Tech,276.5864
 2025-11-26,AMD,AMD,AI semis,214.24
 2025-11-26,AMZN,Amazon,Big Tech,229.16
@@ -563,12 +563,12 @@ Date,ticker,name,group,close
 2025-12-03,AMD,AMD,AI semis,217.6
 2025-12-03,AMZN,Amazon,Big Tech,232.38
 2025-12-03,APLD,Applied Digital,AI cloud & data-center,29.36
-2025-12-03,AVGO,Broadcom,AI semis,377.8009
+2025-12-03,AVGO,Broadcom,AI semis,377.801
 2025-12-03,CORZ,Core Scientific,AI cloud & data-center,16.55
 2025-12-03,CRWV,CoreWeave,AI cloud & data-center,79.36
 2025-12-03,GOOGL,Alphabet,Big Tech,318.8009
 2025-12-03,IREN,IREN,AI cloud & data-center,43.96
-2025-12-03,META,Meta,Big Tech,637.4378
+2025-12-03,META,Meta,Big Tech,637.4377
 2025-12-03,MRVL,Marvell,AI semis,100.0313
 2025-12-03,MSFT,Microsoft,Big Tech,474.7183
 2025-12-03,MU,Micron,AI semis,233.8944
@@ -590,7 +590,7 @@ Date,ticker,name,group,close
 2025-12-04,MU,Micron,AI semis,226.3929
 2025-12-04,NBIS,Nebius,AI cloud & data-center,102.8
 2025-12-04,NVDA,Nvidia,AI semis,182.9519
-2025-12-04,SPY,S&P 500 (SPY),S&P 500,677.0852
+2025-12-04,SPY,S&P 500 (SPY),S&P 500,677.0851
 2025-12-05,AAPL,Apple,Big Tech,277.8121
 2025-12-05,AMD,AMD,AI semis,217.97
 2025-12-05,AMZN,Amazon,Big Tech,229.53
@@ -602,10 +602,10 @@ Date,ticker,name,group,close
 2025-12-05,IREN,IREN,AI cloud & data-center,44.71
 2025-12-05,META,Meta,Big Tech,671.1434
 2025-12-05,MRVL,Marvell,AI semis,98.7435
-2025-12-05,MSFT,Microsoft,Big Tech,480.1141
+2025-12-05,MSFT,Microsoft,Big Tech,480.114
 2025-12-05,MU,Micron,AI semis,236.9509
 2025-12-05,NBIS,Nebius,AI cloud & data-center,98.04
-2025-12-05,NVDA,Nvidia,AI semis,181.9841
+2025-12-05,NVDA,Nvidia,AI semis,181.9842
 2025-12-05,SPY,S&P 500 (SPY),S&P 500,678.3713
 2025-12-08,AAPL,Apple,Big Tech,276.9252
 2025-12-08,AMD,AMD,AI semis,221.11
@@ -648,14 +648,14 @@ Date,ticker,name,group,close
 2025-12-10,CRWV,CoreWeave,AI cloud & data-center,88.16
 2025-12-10,GOOGL,Alphabet,Big Tech,319.5883
 2025-12-10,IREN,IREN,AI cloud & data-center,43.92
-2025-12-10,META,Meta,Big Tech,647.9321
+2025-12-10,META,Meta,Big Tech,647.9322
 2025-12-10,MRVL,Marvell,AI semis,92.3143
 2025-12-10,MSFT,Microsoft,Big Tech,475.5431
 2025-12-10,MU,Micron,AI semis,263.4108
 2025-12-10,NBIS,Nebius,AI cloud & data-center,93.59
 2025-12-10,NVDA,Nvidia,AI semis,183.351
 2025-12-10,SPY,S&P 500 (SPY),S&P 500,680.2313
-2025-12-11,AAPL,Apple,Big Tech,277.0648
+2025-12-11,AAPL,Apple,Big Tech,277.0647
 2025-12-11,AMD,AMD,AI semis,221.43
 2025-12-11,AMZN,Amazon,Big Tech,230.28
 2025-12-11,APLD,Applied Digital,AI cloud & data-center,30.76
@@ -680,14 +680,14 @@ Date,ticker,name,group,close
 2025-12-12,CRWV,CoreWeave,AI cloud & data-center,78.59
 2025-12-12,GOOGL,Alphabet,Big Tech,308.6895
 2025-12-12,IREN,IREN,AI cloud & data-center,40.13
-2025-12-12,META,Meta,Big Tech,642.0521
+2025-12-12,META,Meta,Big Tech,642.052
 2025-12-12,MRVL,Marvell,AI semis,84.2879
-2025-12-12,MSFT,Microsoft,Big Tech,475.5132
-2025-12-12,MU,Micron,AI semis,240.8664
+2025-12-12,MSFT,Microsoft,Big Tech,475.5133
+2025-12-12,MU,Micron,AI semis,240.8665
 2025-12-12,NBIS,Nebius,AI cloud & data-center,87.69
 2025-12-12,NVDA,Nvidia,AI semis,174.6114
-2025-12-12,SPY,S&P 500 (SPY),S&P 500,674.4833
-2025-12-15,AAPL,Apple,Big Tech,273.1584
+2025-12-12,SPY,S&P 500 (SPY),S&P 500,674.4832
+2025-12-15,AAPL,Apple,Big Tech,273.1583
 2025-12-15,AMD,AMD,AI semis,207.58
 2025-12-15,AMZN,Amazon,Big Tech,222.54
 2025-12-15,APLD,Applied Digital,AI cloud & data-center,22.98
@@ -714,7 +714,7 @@ Date,ticker,name,group,close
 2025-12-16,IREN,IREN,AI cloud & data-center,36.59
 2025-12-16,META,Meta,Big Tech,655.4626
 2025-12-16,MRVL,Marvell,AI semis,83.9285
-2025-12-16,MSFT,Microsoft,Big Tech,473.3868
+2025-12-16,MSFT,Microsoft,Big Tech,473.3867
 2025-12-16,MU,Micron,AI semis,232.2462
 2025-12-16,NBIS,Nebius,AI cloud & data-center,80.95
 2025-12-16,NVDA,Nvidia,AI semis,177.3051
@@ -774,7 +774,7 @@ Date,ticker,name,group,close
 2025-12-22,AVGO,Broadcom,AI semis,339.5785
 2025-12-22,CORZ,Core Scientific,AI cloud & data-center,15.79
 2025-12-22,CRWV,CoreWeave,AI cloud & data-center,84.83
-2025-12-22,GOOGL,Alphabet,Big Tech,309.1786
+2025-12-22,GOOGL,Alphabet,Big Tech,309.1785
 2025-12-22,IREN,IREN,AI cloud & data-center,42.04
 2025-12-22,META,Meta,Big Tech,659.8014
 2025-12-22,MRVL,Marvell,AI semis,84.6572
@@ -795,7 +795,7 @@ Date,ticker,name,group,close
 2025-12-23,META,Meta,Big Tech,663.2325
 2025-12-23,MRVL,Marvell,AI semis,87.5324
 2025-12-23,MSFT,Microsoft,Big Tech,483.7808
-2025-12-23,MU,Micron,AI semis,275.9565
+2025-12-23,MU,Micron,AI semis,275.9566
 2025-12-23,NBIS,Nebius,AI cloud & data-center,90.03
 2025-12-23,NVDA,Nvidia,AI semis,188.7683
 2025-12-23,SPY,S&P 500 (SPY),S&P 500,682.6282
@@ -827,7 +827,7 @@ Date,ticker,name,group,close
 2025-12-26,META,Meta,Big Tech,661.5868
 2025-12-26,MRVL,Marvell,AI semis,86.1946
 2025-12-26,MSFT,Microsoft,Big Tech,484.6354
-2025-12-26,MU,Micron,AI semis,284.4669
+2025-12-26,MU,Micron,AI semis,284.467
 2025-12-26,NBIS,Nebius,AI cloud & data-center,87.59
 2025-12-26,NVDA,Nvidia,AI semis,190.0852
 2025-12-26,SPY,S&P 500 (SPY),S&P 500,684.96
@@ -858,12 +858,12 @@ Date,ticker,name,group,close
 2025-12-30,IREN,IREN,AI cloud & data-center,38.3
 2025-12-30,META,Meta,Big Tech,664.24
 2025-12-30,MRVL,Marvell,AI semis,86.6139
-2025-12-30,MSFT,Microsoft,Big Tech,484.4068
+2025-12-30,MSFT,Microsoft,Big Tech,484.4069
 2025-12-30,MU,Micron,AI semis,292.4161
 2025-12-30,NBIS,Nebius,AI cloud & data-center,85.17
 2025-12-30,NVDA,Nvidia,AI semis,187.1022
-2025-12-30,SPY,S&P 500 (SPY),S&P 500,681.6855
-2025-12-31,AAPL,Apple,Big Tech,270.9161
+2025-12-30,SPY,S&P 500 (SPY),S&P 500,681.6856
+2025-12-31,AAPL,Apple,Big Tech,270.9162
 2025-12-31,AMD,AMD,AI semis,214.16
 2025-12-31,AMZN,Amazon,Big Tech,230.82
 2025-12-31,APLD,Applied Digital,AI cloud & data-center,24.52
@@ -879,7 +879,7 @@ Date,ticker,name,group,close
 2025-12-31,NBIS,Nebius,AI cloud & data-center,83.705
 2025-12-31,NVDA,Nvidia,AI semis,186.0646
 2025-12-31,SPY,S&P 500 (SPY),S&P 500,676.635
-2026-01-02,AAPL,Apple,Big Tech,270.0691
+2026-01-02,AAPL,Apple,Big Tech,270.0692
 2026-01-02,AMD,AMD,AI semis,223.47
 2026-01-02,AMZN,Amazon,Big Tech,226.5
 2026-01-02,APLD,Applied Digital,AI cloud & data-center,28.11
@@ -895,14 +895,14 @@ Date,ticker,name,group,close
 2026-01-02,NBIS,Nebius,AI cloud & data-center,89.95
 2026-01-02,NVDA,Nvidia,AI semis,188.4091
 2026-01-02,SPY,S&P 500 (SPY),S&P 500,677.8753
-2026-01-05,AAPL,Apple,Big Tech,266.3322
+2026-01-05,AAPL,Apple,Big Tech,266.3321
 2026-01-05,AMD,AMD,AI semis,221.08
 2026-01-05,AMZN,Amazon,Big Tech,233.06
 2026-01-05,APLD,Applied Digital,AI cloud & data-center,30.2
 2026-01-05,AVGO,Broadcom,AI semis,341.5377
 2026-01-05,CORZ,Core Scientific,AI cloud & data-center,16.73
 2026-01-05,CRWV,CoreWeave,AI cloud & data-center,76.86
-2026-01-05,GOOGL,Alphabet,Big Tech,315.9255
+2026-01-05,GOOGL,Alphabet,Big Tech,315.9254
 2026-01-05,IREN,IREN,AI cloud & data-center,48.24
 2026-01-05,META,Meta,Big Tech,657.0984
 2026-01-05,MRVL,Marvell,AI semis,90.0781
@@ -910,8 +910,8 @@ Date,ticker,name,group,close
 2026-01-05,MU,Micron,AI semis,311.9218
 2026-01-05,NBIS,Nebius,AI cloud & data-center,92.83
 2026-01-05,NVDA,Nvidia,AI semis,187.6808
-2026-01-05,SPY,S&P 500 (SPY),S&P 500,682.3901
-2026-01-06,AAPL,Apple,Big Tech,261.4491
+2026-01-05,SPY,S&P 500 (SPY),S&P 500,682.39
+2026-01-06,AAPL,Apple,Big Tech,261.4492
 2026-01-06,AMD,AMD,AI semis,214.35
 2026-01-06,AMZN,Amazon,Big Tech,240.93
 2026-01-06,APLD,Applied Digital,AI cloud & data-center,30.26
@@ -1022,8 +1022,8 @@ Date,ticker,name,group,close
 2026-01-14,MU,Micron,AI semis,333.1064
 2026-01-14,NBIS,Nebius,AI cloud & data-center,101.98
 2026-01-14,NVDA,Nvidia,AI semis,182.7124
-2026-01-14,SPY,S&P 500 (SPY),S&P 500,685.0095
-2026-01-15,AAPL,Apple,Big Tech,257.3135
+2026-01-14,SPY,S&P 500 (SPY),S&P 500,685.0096
+2026-01-15,AAPL,Apple,Big Tech,257.3136
 2026-01-15,AMD,AMD,AI semis,227.92
 2026-01-15,AMZN,Amazon,Big Tech,238.18
 2026-01-15,APLD,Applied Digital,AI cloud & data-center,35.22
@@ -1035,7 +1035,7 @@ Date,ticker,name,group,close
 2026-01-15,META,Meta,Big Tech,619.2059
 2026-01-15,MRVL,Marvell,AI semis,80.3024
 2026-01-15,MSFT,Microsoft,Big Tech,453.7811
-2026-01-15,MU,Micron,AI semis,336.3839
+2026-01-15,MU,Micron,AI semis,336.384
 2026-01-15,NBIS,Nebius,AI cloud & data-center,103.885
 2026-01-15,NVDA,Nvidia,AI semis,186.6133
 2026-01-15,SPY,S&P 500 (SPY),S&P 500,686.8751
@@ -1050,7 +1050,7 @@ Date,ticker,name,group,close
 2026-01-16,IREN,IREN,AI cloud & data-center,57.82
 2026-01-16,META,Meta,Big Tech,618.6573
 2026-01-16,MRVL,Marvell,AI semis,80.3823
-2026-01-16,MSFT,Microsoft,Big Tech,456.9609
+2026-01-16,MSFT,Microsoft,Big Tech,456.961
 2026-01-16,MU,Micron,AI semis,362.4849
 2026-01-16,NBIS,Nebius,AI cloud & data-center,108.73
 2026-01-16,NVDA,Nvidia,AI semis,185.7952
@@ -1070,7 +1070,7 @@ Date,ticker,name,group,close
 2026-01-20,MU,Micron,AI semis,364.7332
 2026-01-20,NBIS,Nebius,AI cloud & data-center,99.29
 2026-01-20,NVDA,Nvidia,AI semis,177.6543
-2026-01-20,SPY,S&P 500 (SPY),S&P 500,672.3287
+2026-01-20,SPY,S&P 500 (SPY),S&P 500,672.3286
 2026-01-21,AAPL,Apple,Big Tech,246.7902
 2026-01-21,AMD,AMD,AI semis,249.8
 2026-01-21,AMZN,Amazon,Big Tech,231.31
@@ -1103,11 +1103,11 @@ Date,ticker,name,group,close
 2026-01-22,NBIS,Nebius,AI cloud & data-center,96.85
 2026-01-22,NVDA,Nvidia,AI semis,184.4085
 2026-01-22,SPY,S&P 500 (SPY),S&P 500,683.6403
-2026-01-23,AAPL,Apple,Big Tech,247.1789
+2026-01-23,AAPL,Apple,Big Tech,247.1788
 2026-01-23,AMD,AMD,AI semis,259.68
 2026-01-23,AMZN,Amazon,Big Tech,239.16
 2026-01-23,APLD,Applied Digital,AI cloud & data-center,37.69
-2026-01-23,AVGO,Broadcom,AI semis,318.2957
+2026-01-23,AVGO,Broadcom,AI semis,318.2958
 2026-01-23,CORZ,Core Scientific,AI cloud & data-center,18.79
 2026-01-23,CRWV,CoreWeave,AI cloud & data-center,92.98
 2026-01-23,GOOGL,Alphabet,Big Tech,327.2933
@@ -1118,7 +1118,7 @@ Date,ticker,name,group,close
 2026-01-23,MU,Micron,AI semis,399.3579
 2026-01-23,NBIS,Nebius,AI cloud & data-center,94.5
 2026-01-23,NVDA,Nvidia,AI semis,187.2319
-2026-01-23,SPY,S&P 500 (SPY),S&P 500,683.8884
+2026-01-23,SPY,S&P 500 (SPY),S&P 500,683.8883
 2026-01-26,AAPL,Apple,Big Tech,254.5233
 2026-01-26,AMD,AMD,AI semis,251.31
 2026-01-26,AMZN,Amazon,Big Tech,238.42
@@ -1150,7 +1150,7 @@ Date,ticker,name,group,close
 2026-01-27,MU,Micron,AI semis,409.9402
 2026-01-27,NBIS,Nebius,AI cloud & data-center,97.87
 2026-01-27,NVDA,Nvidia,AI semis,188.0799
-2026-01-27,SPY,S&P 500 (SPY),S&P 500,690.0999
+2026-01-27,SPY,S&P 500 (SPY),S&P 500,690.0998
 2026-01-28,AAPL,Apple,Big Tech,255.5497
 2026-01-28,AMD,AMD,AI semis,252.74
 2026-01-28,AMZN,Amazon,Big Tech,243.01
@@ -1158,7 +1158,7 @@ Date,ticker,name,group,close
 2026-01-28,AVGO,Broadcom,AI semis,331.4135
 2026-01-28,CORZ,Core Scientific,AI cloud & data-center,19.49
 2026-01-28,CRWV,CoreWeave,AI cloud & data-center,106.02
-2026-01-28,GOOGL,Alphabet,Big Tech,335.3577
+2026-01-28,GOOGL,Alphabet,Big Tech,335.3576
 2026-01-28,IREN,IREN,AI cloud & data-center,62.94
 2026-01-28,META,Meta,Big Tech,667.0128
 2026-01-28,MRVL,Marvell,AI semis,83.5393
@@ -1214,8 +1214,8 @@ Date,ticker,name,group,close
 2026-02-02,MU,Micron,AI semis,437.48
 2026-02-02,NBIS,Nebius,AI cloud & data-center,88.16
 2026-02-02,NVDA,Nvidia,AI semis,185.1767
-2026-02-02,SPY,S&P 500 (SPY),S&P 500,690.0204
-2026-02-03,AAPL,Apple,Big Tech,268.5444
+2026-02-02,SPY,S&P 500 (SPY),S&P 500,690.0205
+2026-02-03,AAPL,Apple,Big Tech,268.5445
 2026-02-03,AMD,AMD,AI semis,242.11
 2026-02-03,AMZN,Amazon,Big Tech,238.62
 2026-02-03,APLD,Applied Digital,AI cloud & data-center,36.7
@@ -1245,7 +1245,7 @@ Date,ticker,name,group,close
 2026-02-04,MSFT,Microsoft,Big Tech,411.5789
 2026-02-04,MU,Micron,AI semis,379.1227
 2026-02-04,NBIS,Nebius,AI cloud & data-center,82.39
-2026-02-04,NVDA,Nvidia,AI semis,173.7834
+2026-02-04,NVDA,Nvidia,AI semis,173.7833
 2026-02-04,SPY,S&P 500 (SPY),S&P 500,680.8719
 2026-02-05,AAPL,Apple,Big Tech,274.9521
 2026-02-05,AMD,AMD,AI semis,192.5
@@ -1258,7 +1258,7 @@ Date,ticker,name,group,close
 2026-02-05,IREN,IREN,AI cloud & data-center,39.79
 2026-02-05,META,Meta,Big Tech,668.489
 2026-02-05,MRVL,Marvell,AI semis,74.1384
-2026-02-05,MSFT,Microsoft,Big Tech,391.1882
+2026-02-05,MSFT,Microsoft,Big Tech,391.1883
 2026-02-05,MU,Micron,AI semis,382.6102
 2026-02-05,NBIS,Nebius,AI cloud & data-center,73.87
 2026-02-05,NVDA,Nvidia,AI semis,171.4787
@@ -1277,7 +1277,7 @@ Date,ticker,name,group,close
 2026-02-06,MSFT,Microsoft,Big Tech,398.6111
 2026-02-06,MU,Micron,AI semis,394.4015
 2026-02-06,NBIS,Nebius,AI cloud & data-center,86.1
-2026-02-06,NVDA,Nvidia,AI semis,184.9772
+2026-02-06,NVDA,Nvidia,AI semis,184.9771
 2026-02-06,SPY,S&P 500 (SPY),S&P 500,685.2676
 2026-02-09,AAPL,Apple,Big Tech,273.9227
 2026-02-09,AMD,AMD,AI semis,216.0
@@ -1305,12 +1305,12 @@ Date,ticker,name,group,close
 2026-02-10,GOOGL,Alphabet,Big Tech,317.9615
 2026-02-10,IREN,IREN,AI cloud & data-center,42.93
 2026-02-10,META,Meta,Big Tech,668.9977
-2026-02-10,MRVL,Marvell,AI semis,81.9308
-2026-02-10,MSFT,Microsoft,Big Tech,410.6647
+2026-02-10,MRVL,Marvell,AI semis,81.9309
+2026-02-10,MSFT,Microsoft,Big Tech,410.6646
 2026-02-10,MU,Micron,AI semis,372.9772
 2026-02-10,NBIS,Nebius,AI cloud & data-center,91.79
 2026-02-10,NVDA,Nvidia,AI semis,188.0998
-2026-02-10,SPY,S&P 500 (SPY),S&P 500,686.756
+2026-02-10,SPY,S&P 500 (SPY),S&P 500,686.7559
 2026-02-11,AAPL,Apple,Big Tech,274.8004
 2026-02-11,AMD,AMD,AI semis,213.58
 2026-02-11,AMZN,Amazon,Big Tech,204.08
@@ -1350,15 +1350,15 @@ Date,ticker,name,group,close
 2026-02-13,AVGO,Broadcom,AI semis,323.3877
 2026-02-13,CORZ,Core Scientific,AI cloud & data-center,17.84
 2026-02-13,CRWV,CoreWeave,AI cloud & data-center,96.04
-2026-02-13,GOOGL,Alphabet,Big Tech,305.1264
+2026-02-13,GOOGL,Alphabet,Big Tech,305.1265
 2026-02-13,IREN,IREN,AI cloud & data-center,42.22
 2026-02-13,META,Meta,Big Tech,638.1273
 2026-02-13,MRVL,Marvell,AI semis,78.5341
 2026-02-13,MSFT,Microsoft,Big Tech,398.79
-2026-02-13,MU,Micron,AI semis,411.3591
+2026-02-13,MU,Micron,AI semis,411.3592
 2026-02-13,NBIS,Nebius,AI cloud & data-center,98.01
 2026-02-13,NVDA,Nvidia,AI semis,182.3832
-2026-02-13,SPY,S&P 500 (SPY),S&P 500,676.4664
+2026-02-13,SPY,S&P 500 (SPY),S&P 500,676.4663
 2026-02-17,AAPL,Apple,Big Tech,263.21
 2026-02-17,AMD,AMD,AI semis,203.08
 2026-02-17,AMZN,Amazon,Big Tech,201.15
@@ -1369,13 +1369,13 @@ Date,ticker,name,group,close
 2026-02-17,GOOGL,Alphabet,Big Tech,301.4336
 2026-02-17,IREN,IREN,AI cloud & data-center,40.97
 2026-02-17,META,Meta,Big Tech,637.6484
-2026-02-17,MRVL,Marvell,AI semis,78.9337
+2026-02-17,MRVL,Marvell,AI semis,78.9338
 2026-02-17,MSFT,Microsoft,Big Tech,394.3581
 2026-02-17,MU,Micron,AI semis,399.4878
 2026-02-17,NBIS,Nebius,AI cloud & data-center,97.52
 2026-02-17,NVDA,Nvidia,AI semis,184.5382
 2026-02-17,SPY,S&P 500 (SPY),S&P 500,677.5578
-2026-02-18,AAPL,Apple,Big Tech,263.6788
+2026-02-18,AAPL,Apple,Big Tech,263.6787
 2026-02-18,AMD,AMD,AI semis,200.12
 2026-02-18,AMZN,Amazon,Big Tech,204.79
 2026-02-18,APLD,Applied Digital,AI cloud & data-center,31.91
@@ -1386,11 +1386,11 @@ Date,ticker,name,group,close
 2026-02-18,IREN,IREN,AI cloud & data-center,42.08
 2026-02-18,META,Meta,Big Tech,641.5683
 2026-02-18,MRVL,Marvell,AI semis,79.0137
-2026-02-18,MSFT,Microsoft,Big Tech,397.0809
-2026-02-18,MU,Micron,AI semis,420.6423
+2026-02-18,MSFT,Microsoft,Big Tech,397.0808
+2026-02-18,MU,Micron,AI semis,420.6424
 2026-02-18,NBIS,Nebius,AI cloud & data-center,101.8
 2026-02-18,NVDA,Nvidia,AI semis,187.5411
-2026-02-18,SPY,S&P 500 (SPY),S&P 500,680.9712
+2026-02-18,SPY,S&P 500 (SPY),S&P 500,680.9711
 2026-02-19,AAPL,Apple,Big Tech,259.9183
 2026-02-19,AMD,AMD,AI semis,203.37
 2026-02-19,AMZN,Amazon,Big Tech,204.86
@@ -1406,8 +1406,8 @@ Date,ticker,name,group,close
 2026-02-19,MU,Micron,AI semis,417.045
 2026-02-19,NBIS,Nebius,AI cloud & data-center,107.61
 2026-02-19,NVDA,Nvidia,AI semis,187.4613
-2026-02-19,SPY,S&P 500 (SPY),S&P 500,679.1752
-2026-02-20,AAPL,Apple,Big Tech,263.9081
+2026-02-19,SPY,S&P 500 (SPY),S&P 500,679.1751
+2026-02-20,AAPL,Apple,Big Tech,263.9082
 2026-02-20,AMD,AMD,AI semis,200.15
 2026-02-20,AMZN,Amazon,Big Tech,210.11
 2026-02-20,APLD,Applied Digital,AI cloud & data-center,29.04
@@ -1422,7 +1422,7 @@ Date,ticker,name,group,close
 2026-02-20,MU,Micron,AI semis,427.8571
 2026-02-20,NBIS,Nebius,AI cloud & data-center,97.92
 2026-02-20,NVDA,Nvidia,AI semis,189.3769
-2026-02-20,SPY,S&P 500 (SPY),S&P 500,684.0868
+2026-02-20,SPY,S&P 500 (SPY),S&P 500,684.0869
 2026-02-23,AAPL,Apple,Big Tech,265.5041
 2026-02-23,AMD,AMD,AI semis,196.6
 2026-02-23,AMZN,Amazon,Big Tech,205.27
@@ -1430,7 +1430,7 @@ Date,ticker,name,group,close
 2026-02-23,AVGO,Broadcom,AI semis,328.5294
 2026-02-23,CORZ,Core Scientific,AI cloud & data-center,16.89
 2026-02-23,CRWV,CoreWeave,AI cloud & data-center,90.84
-2026-02-23,GOOGL,Alphabet,Big Tech,310.8852
+2026-02-23,GOOGL,Alphabet,Big Tech,310.8853
 2026-02-23,IREN,IREN,AI cloud & data-center,42.36
 2026-02-23,META,Meta,Big Tech,635.6136
 2026-02-23,MRVL,Marvell,AI semis,77.7149
@@ -1450,7 +1450,7 @@ Date,ticker,name,group,close
 2026-02-24,IREN,IREN,AI cloud & data-center,45.45
 2026-02-24,META,Meta,Big Tech,637.6584
 2026-02-24,MRVL,Marvell,AI semis,78.3143
-2026-02-24,MSFT,Microsoft,Big Tech,387.43
+2026-02-24,MSFT,Microsoft,Big Tech,387.4299
 2026-02-24,MU,Micron,AI semis,417.7045
 2026-02-24,NBIS,Nebius,AI cloud & data-center,102.58
 2026-02-24,NVDA,Nvidia,AI semis,192.3998
@@ -1467,7 +1467,7 @@ Date,ticker,name,group,close
 2026-02-25,META,Meta,Big Tech,652.0115
 2026-02-25,MRVL,Marvell,AI semis,80.8419
 2026-02-25,MSFT,Microsoft,Big Tech,398.9831
-2026-02-25,MU,Micron,AI semis,428.6865
+2026-02-25,MU,Micron,AI semis,428.6864
 2026-02-25,NBIS,Nebius,AI cloud & data-center,106.12
 2026-02-25,NVDA,Nvidia,AI semis,195.1035
 2026-02-25,SPY,S&P 500 (SPY),S&P 500,687.778
@@ -1494,7 +1494,7 @@ Date,ticker,name,group,close
 2026-02-27,AVGO,Broadcom,AI semis,317.7985
 2026-02-27,CORZ,Core Scientific,AI cloud & data-center,16.97
 2026-02-27,CRWV,CoreWeave,AI cloud & data-center,79.56
-2026-02-27,GOOGL,Alphabet,Big Tech,311.1547
+2026-02-27,GOOGL,Alphabet,Big Tech,311.1548
 2026-02-27,IREN,IREN,AI cloud & data-center,40.95
 2026-02-27,META,Meta,Big Tech,646.5156
 2026-02-27,MRVL,Marvell,AI semis,81.6112
@@ -1534,7 +1534,7 @@ Date,ticker,name,group,close
 2026-03-03,MU,Micron,AI semis,379.4025
 2026-03-03,NBIS,Nebius,AI cloud & data-center,86.8
 2026-03-03,NVDA,Nvidia,AI semis,179.6297
-2026-03-03,SPY,S&P 500 (SPY),S&P 500,675.0573
+2026-03-03,SPY,S&P 500 (SPY),S&P 500,675.0574
 2026-03-04,AAPL,Apple,Big Tech,261.8534
 2026-03-04,AMD,AMD,AI semis,202.07
 2026-03-04,AMZN,Amazon,Big Tech,216.82
@@ -1542,7 +1542,7 @@ Date,ticker,name,group,close
 2026-03-04,AVGO,Broadcom,AI semis,315.7896
 2026-03-04,CORZ,Core Scientific,AI cloud & data-center,15.84
 2026-03-04,CRWV,CoreWeave,AI cloud & data-center,79.5
-2026-03-04,GOOGL,Alphabet,Big Tech,302.5415
+2026-03-04,GOOGL,Alphabet,Big Tech,302.5414
 2026-03-04,IREN,IREN,AI cloud & data-center,43.84
 2026-03-04,META,Meta,Big Tech,666.0154
 2026-03-04,MRVL,Marvell,AI semis,78.0146
@@ -1566,7 +1566,7 @@ Date,ticker,name,group,close
 2026-03-05,MU,Micron,AI semis,396.7598
 2026-03-05,NBIS,Nebius,AI cloud & data-center,95.65
 2026-03-05,NVDA,Nvidia,AI semis,182.912
-2026-03-05,SPY,S&P 500 (SPY),S&P 500,676.0297
+2026-03-05,SPY,S&P 500 (SPY),S&P 500,676.0298
 2026-03-06,AAPL,Apple,Big Tech,256.8062
 2026-03-06,AMD,AMD,AI semis,192.43
 2026-03-06,AMZN,Amazon,Big Tech,213.21
@@ -1579,7 +1579,7 @@ Date,ticker,name,group,close
 2026-03-06,META,Meta,Big Tech,643.2041
 2026-03-06,MRVL,Marvell,AI semis,89.4836
 2026-03-06,MSFT,Microsoft,Big Tech,407.3094
-2026-03-06,MU,Micron,AI semis,370.0293
+2026-03-06,MU,Micron,AI semis,370.0294
 2026-03-06,NBIS,Nebius,AI cloud & data-center,89.33
 2026-03-06,NVDA,Nvidia,AI semis,177.4049
 2026-03-06,SPY,S&P 500 (SPY),S&P 500,667.1689
@@ -1598,12 +1598,12 @@ Date,ticker,name,group,close
 2026-03-09,MU,Micron,AI semis,389.0355
 2026-03-09,NBIS,Nebius,AI cloud & data-center,94.94
 2026-03-09,NVDA,Nvidia,AI semis,182.2236
-2026-03-09,SPY,S&P 500 (SPY),S&P 500,673.0133
+2026-03-09,SPY,S&P 500 (SPY),S&P 500,673.0134
 2026-03-10,AAPL,Apple,Big Tech,260.1677
 2026-03-10,AMD,AMD,AI semis,203.23
 2026-03-10,AMZN,Amazon,Big Tech,214.33
 2026-03-10,APLD,Applied Digital,AI cloud & data-center,27.4
-2026-03-10,AVGO,Broadcom,AI semis,340.7022
+2026-03-10,AVGO,Broadcom,AI semis,340.7023
 2026-03-10,CORZ,Core Scientific,AI cloud & data-center,15.46
 2026-03-10,CRWV,CoreWeave,AI cloud & data-center,74.92
 2026-03-10,GOOGL,Alphabet,Big Tech,306.6596
@@ -1611,10 +1611,10 @@ Date,ticker,name,group,close
 2026-03-10,META,Meta,Big Tech,652.3905
 2026-03-10,MRVL,Marvell,AI semis,93.21
 2026-03-10,MSFT,Microsoft,Big Tech,404.1223
-2026-03-10,MU,Micron,AI semis,402.8153
+2026-03-10,MU,Micron,AI semis,402.8154
 2026-03-10,NBIS,Nebius,AI cloud & data-center,96.43
 2026-03-10,NVDA,Nvidia,AI semis,184.3387
-2026-03-10,SPY,S&P 500 (SPY),S&P 500,671.9317
+2026-03-10,SPY,S&P 500 (SPY),S&P 500,671.9318
 2026-03-11,AAPL,Apple,Big Tech,260.1477
 2026-03-11,AMD,AMD,AI semis,204.83
 2026-03-11,AMZN,Amazon,Big Tech,212.65
@@ -1645,7 +1645,7 @@ Date,ticker,name,group,close
 2026-03-12,MSFT,Microsoft,Big Tech,400.238
 2026-03-12,MU,Micron,AI semis,405.0537
 2026-03-12,NBIS,Nebius,AI cloud & data-center,108.04
-2026-03-12,NVDA,Nvidia,AI semis,182.7223
+2026-03-12,NVDA,Nvidia,AI semis,182.7224
 2026-03-12,SPY,S&P 500 (SPY),S&P 500,660.8979
 2026-03-13,AAPL,Apple,Big Tech,249.4849
 2026-03-13,AMD,AMD,AI semis,193.39
@@ -1691,7 +1691,7 @@ Date,ticker,name,group,close
 2026-03-17,META,Meta,Big Tech,621.5929
 2026-03-17,MRVL,Marvell,AI semis,90.7024
 2026-03-17,MSFT,Microsoft,Big Tech,397.7979
-2026-03-17,MU,Micron,AI semis,461.3525
+2026-03-17,MU,Micron,AI semis,461.3526
 2026-03-17,NBIS,Nebius,AI cloud & data-center,116.33
 2026-03-17,NVDA,Nvidia,AI semis,181.5151
 2026-03-17,SPY,S&P 500 (SPY),S&P 500,665.5912
@@ -1741,7 +1741,7 @@ Date,ticker,name,group,close
 2026-03-20,MSFT,Microsoft,Big Tech,380.3287
 2026-03-20,MU,Micron,AI semis,422.5909
 2026-03-20,NBIS,Nebius,AI cloud & data-center,117.62
-2026-03-20,NVDA,Nvidia,AI semis,172.3062
+2026-03-20,NVDA,Nvidia,AI semis,172.3061
 2026-03-20,SPY,S&P 500 (SPY),S&P 500,645.301
 2026-03-23,AAPL,Apple,Big Tech,250.8514
 2026-03-23,AMD,AMD,AI semis,202.68
@@ -1755,7 +1755,7 @@ Date,ticker,name,group,close
 2026-03-23,META,Meta,Big Tech,603.0248
 2026-03-23,MRVL,Marvell,AI semis,90.073
 2026-03-23,MSFT,Microsoft,Big Tech,381.4542
-2026-03-23,MU,Micron,AI semis,404.0545
+2026-03-23,MU,Micron,AI semis,404.0544
 2026-03-23,NBIS,Nebius,AI cloud & data-center,114.15
 2026-03-23,NVDA,Nvidia,AI semis,175.2394
 2026-03-23,SPY,S&P 500 (SPY),S&P 500,652.0767
@@ -1790,7 +1790,7 @@ Date,ticker,name,group,close
 2026-03-25,MU,Micron,AI semis,381.8107
 2026-03-25,NBIS,Nebius,AI cloud & data-center,115.09
 2026-03-25,NVDA,Nvidia,AI semis,178.2725
-2026-03-25,SPY,S&P 500 (SPY),S&P 500,653.5095
+2026-03-25,SPY,S&P 500 (SPY),S&P 500,653.5094
 2026-03-26,AAPL,Apple,Big Tech,252.2478
 2026-03-26,AMD,AMD,AI semis,203.77
 2026-03-26,AMZN,Amazon,Big Tech,207.54
@@ -1833,7 +1833,7 @@ Date,ticker,name,group,close
 2026-03-30,GOOGL,Alphabet,Big Tech,273.1612
 2026-03-30,IREN,IREN,AI cloud & data-center,31.62
 2026-03-30,META,Meta,Big Tech,535.4608
-2026-03-30,MRVL,Marvell,AI semis,87.7252
+2026-03-30,MRVL,Marvell,AI semis,87.7253
 2026-03-30,MSFT,Microsoft,Big Tech,357.5112
 2026-03-30,MU,Micron,AI semis,321.6999
 2026-03-30,NBIS,Nebius,AI cloud & data-center,92.26
@@ -1871,22 +1871,22 @@ Date,ticker,name,group,close
 2026-04-01,NBIS,Nebius,AI cloud & data-center,101.95
 2026-04-01,NVDA,Nvidia,AI semis,175.3492
 2026-04-01,SPY,S&P 500 (SPY),S&P 500,651.9374
-2026-04-02,AAPL,Apple,Big Tech,255.2702
+2026-04-02,AAPL,Apple,Big Tech,255.2701
 2026-04-02,AMD,AMD,AI semis,217.5
 2026-04-02,AMZN,Amazon,Big Tech,209.77
 2026-04-02,APLD,Applied Digital,AI cloud & data-center,24.56
 2026-04-02,AVGO,Broadcom,AI semis,313.4821
 2026-04-02,CORZ,Core Scientific,AI cloud & data-center,16.23
 2026-04-02,CRWV,CoreWeave,AI cloud & data-center,82.24
-2026-04-02,GOOGL,Alphabet,Big Tech,295.4036
+2026-04-02,GOOGL,Alphabet,Big Tech,295.4035
 2026-04-02,IREN,IREN,AI cloud & data-center,34.77
 2026-04-02,META,Meta,Big Tech,573.4755
 2026-04-02,MRVL,Marvell,AI semis,107.0066
 2026-04-02,MSFT,Microsoft,Big Tech,371.9527
-2026-04-02,MU,Micron,AI semis,366.1261
+2026-04-02,MU,Micron,AI semis,366.126
 2026-04-02,NBIS,Nebius,AI cloud & data-center,108.82
-2026-04-02,NVDA,Nvidia,AI semis,176.9855
-2026-04-02,SPY,S&P 500 (SPY),S&P 500,652.5245
+2026-04-02,NVDA,Nvidia,AI semis,176.9854
+2026-04-02,SPY,S&P 500 (SPY),S&P 500,652.5244
 2026-04-06,AAPL,Apple,Big Tech,258.2027
 2026-04-06,AMD,AMD,AI semis,220.18
 2026-04-06,AMZN,Amazon,Big Tech,212.79
@@ -1930,12 +1930,12 @@ Date,ticker,name,group,close
 2026-04-08,IREN,IREN,AI cloud & data-center,36.83
 2026-04-08,META,Meta,Big Tech,611.3704
 2026-04-08,MRVL,Marvell,AI semis,114.3395
-2026-04-08,MSFT,Microsoft,Big Tech,372.8192
+2026-04-08,MSFT,Microsoft,Big Tech,372.8191
 2026-04-08,MU,Micron,AI semis,406.6035
 2026-04-08,NBIS,Nebius,AI cloud & data-center,125.0
 2026-04-08,NVDA,Nvidia,AI semis,181.6648
 2026-04-08,SPY,S&P 500 (SPY),S&P 500,672.6027
-2026-04-09,AAPL,Apple,Big Tech,259.8286
+2026-04-09,AAPL,Apple,Big Tech,259.8285
 2026-04-09,AMD,AMD,AI semis,236.64
 2026-04-09,AMZN,Amazon,Big Tech,233.65
 2026-04-09,APLD,Applied Digital,AI cloud & data-center,25.57
@@ -1946,7 +1946,7 @@ Date,ticker,name,group,close
 2026-04-09,IREN,IREN,AI cloud & data-center,37.06
 2026-04-09,META,Meta,Big Tech,627.3131
 2026-04-09,MRVL,Marvell,AI semis,119.8143
-2026-04-09,MSFT,Microsoft,Big Tech,371.5643
+2026-04-09,MSFT,Microsoft,Big Tech,371.5642
 2026-04-09,MU,Micron,AI semis,421.3789
 2026-04-09,NBIS,Nebius,AI cloud & data-center,136.33
 2026-04-09,NVDA,Nvidia,AI semis,183.4906
@@ -1963,7 +1963,7 @@ Date,ticker,name,group,close
 2026-04-10,META,Meta,Big Tech,628.7805
 2026-04-10,MRVL,Marvell,AI semis,128.4303
 2026-04-10,MSFT,Microsoft,Big Tech,369.3731
-2026-04-10,MU,Micron,AI semis,420.4591
+2026-04-10,MU,Micron,AI semis,420.4592
 2026-04-10,NBIS,Nebius,AI cloud & data-center,144.97
 2026-04-10,NVDA,Nvidia,AI semis,188.1998
 2026-04-10,SPY,S&P 500 (SPY),S&P 500,676.0353
@@ -1977,7 +1977,7 @@ Date,ticker,name,group,close
 2026-04-13,GOOGL,Alphabet,Big Tech,320.9119
 2026-04-13,IREN,IREN,AI cloud & data-center,43.07
 2026-04-13,META,Meta,Big Tech,633.4426
-2026-04-13,MRVL,Marvell,AI semis,131.239
+2026-04-13,MRVL,Marvell,AI semis,131.2389
 2026-04-13,MSFT,Microsoft,Big Tech,382.8186
 2026-04-13,MU,Micron,AI semis,426.4273
 2026-04-13,NBIS,Nebius,AI cloud & data-center,154.56
@@ -1999,7 +1999,7 @@ Date,ticker,name,group,close
 2026-04-14,NBIS,Nebius,AI cloud & data-center,161.94
 2026-04-14,NVDA,Nvidia,AI semis,196.0618
 2026-04-14,SPY,S&P 500 (SPY),S&P 500,690.9597
-2026-04-15,AAPL,Apple,Big Tech,265.7534
+2026-04-15,AAPL,Apple,Big Tech,265.7535
 2026-04-15,AMD,AMD,AI semis,258.12
 2026-04-15,AMZN,Amazon,Big Tech,248.5
 2026-04-15,APLD,Applied Digital,AI cloud & data-center,30.81
@@ -2015,7 +2015,7 @@ Date,ticker,name,group,close
 2026-04-15,NBIS,Nebius,AI cloud & data-center,166.77
 2026-04-15,NVDA,Nvidia,AI semis,198.4165
 2026-04-15,SPY,S&P 500 (SPY),S&P 500,696.4121
-2026-04-16,AAPL,Apple,Big Tech,262.7312
+2026-04-16,AAPL,Apple,Big Tech,262.7311
 2026-04-16,AMD,AMD,AI semis,278.26
 2026-04-16,AMZN,Amazon,Big Tech,249.7
 2026-04-16,APLD,Applied Digital,AI cloud & data-center,30.09
@@ -2027,7 +2027,7 @@ Date,ticker,name,group,close
 2026-04-16,META,Meta,Big Tech,675.71
 2026-04-16,MRVL,Marvell,AI semis,133.308
 2026-04-16,MSFT,Microsoft,Big Tech,418.5638
-2026-04-16,MU,Micron,AI semis,457.0877
+2026-04-16,MU,Micron,AI semis,457.0878
 2026-04-16,NBIS,Nebius,AI cloud & data-center,165.34
 2026-04-16,NVDA,Nvidia,AI semis,197.8977
 2026-04-16,SPY,S&P 500 (SPY),S&P 500,698.1234
@@ -2074,7 +2074,7 @@ Date,ticker,name,group,close
 2026-04-21,IREN,IREN,AI cloud & data-center,45.17
 2026-04-21,META,Meta,Big Tech,667.6938
 2026-04-21,MRVL,Marvell,AI semis,151.2396
-2026-04-21,MSFT,Microsoft,Big Tech,422.4481
+2026-04-21,MSFT,Microsoft,Big Tech,422.448
 2026-04-21,MU,Micron,AI semis,449.2402
 2026-04-21,NBIS,Nebius,AI cloud & data-center,156.55
 2026-04-21,NVDA,Nvidia,AI semis,199.4242
@@ -2089,9 +2089,9 @@ Date,ticker,name,group,close
 2026-04-22,GOOGL,Alphabet,Big Tech,338.8996
 2026-04-22,IREN,IREN,AI cloud & data-center,48.39
 2026-04-22,META,Meta,Big Tech,673.5637
-2026-04-22,MRVL,Marvell,AI semis,157.2468
+2026-04-22,MRVL,Marvell,AI semis,157.2469
 2026-04-22,MSFT,Microsoft,Big Tech,431.1727
-2026-04-22,MU,Micron,AI semis,487.3283
+2026-04-22,MU,Micron,AI semis,487.3284
 2026-04-22,NBIS,Nebius,AI cloud & data-center,156.14
 2026-04-22,NVDA,Nvidia,AI semis,202.0382
 2026-04-22,SPY,S&P 500 (SPY),S&P 500,707.6253
@@ -2107,7 +2107,7 @@ Date,ticker,name,group,close
 2026-04-23,META,Meta,Big Tech,658.0204
 2026-04-23,MRVL,Marvell,AI semis,165.483
 2026-04-23,MSFT,Microsoft,Big Tech,414.072
-2026-04-23,MU,Micron,AI semis,481.5701
+2026-04-23,MU,Micron,AI semis,481.5702
 2026-04-23,NBIS,Nebius,AI cloud & data-center,157.08
 2026-04-23,NVDA,Nvidia,AI semis,199.1847
 2026-04-23,SPY,S&P 500 (SPY),S&P 500,704.8792
@@ -2126,23 +2126,23 @@ Date,ticker,name,group,close
 2026-04-24,MU,Micron,AI semis,496.5655
 2026-04-24,NBIS,Nebius,AI cloud & data-center,147.16
 2026-04-24,NVDA,Nvidia,AI semis,207.795
-2026-04-24,SPY,S&P 500 (SPY),S&P 500,710.3415
-2026-04-27,AAPL,Apple,Big Tech,266.9305
+2026-04-24,SPY,S&P 500 (SPY),S&P 500,710.3416
+2026-04-27,AAPL,Apple,Big Tech,266.9304
 2026-04-27,AMD,AMD,AI semis,334.63
 2026-04-27,AMZN,Amazon,Big Tech,261.12
 2026-04-27,APLD,Applied Digital,AI cloud & data-center,33.67
 2026-04-27,AVGO,Broadcom,AI semis,416.7802
 2026-04-27,CORZ,Core Scientific,AI cloud & data-center,21.1
 2026-04-27,CRWV,CoreWeave,AI cloud & data-center,112.06
-2026-04-27,GOOGL,Alphabet,Big Tech,349.9059
+2026-04-27,GOOGL,Alphabet,Big Tech,349.906
 2026-04-27,IREN,IREN,AI cloud & data-center,48.36
 2026-04-27,META,Meta,Big Tech,677.457
 2026-04-27,MRVL,Marvell,AI semis,158.1364
 2026-04-27,MSFT,Microsoft,Big Tech,423.1054
-2026-04-27,MU,Micron,AI semis,524.3969
+2026-04-27,MU,Micron,AI semis,524.3968
 2026-04-27,NBIS,Nebius,AI cloud & data-center,144.96
 2026-04-27,NVDA,Nvidia,AI semis,216.116
-2026-04-27,SPY,S&P 500 (SPY),S&P 500,711.5654
+2026-04-27,SPY,S&P 500 (SPY),S&P 500,711.5653
 2026-04-28,AAPL,Apple,Big Tech,270.0226
 2026-04-28,AMD,AMD,AI semis,323.21
 2026-04-28,AMZN,Amazon,Big Tech,259.7
@@ -2150,7 +2150,7 @@ Date,ticker,name,group,close
 2026-04-28,AVGO,Broadcom,AI semis,398.4726
 2026-04-28,CORZ,Core Scientific,AI cloud & data-center,20.02
 2026-04-28,CRWV,CoreWeave,AI cloud & data-center,105.53
-2026-04-28,GOOGL,Alphabet,Big Tech,349.3466
+2026-04-28,GOOGL,Alphabet,Big Tech,349.3467
 2026-04-28,IREN,IREN,AI cloud & data-center,44.44
 2026-04-28,META,Meta,Big Tech,670.1895
 2026-04-28,MRVL,Marvell,AI semis,153.1587
@@ -2158,7 +2158,7 @@ Date,ticker,name,group,close
 2026-04-28,MU,Micron,AI semis,504.1331
 2026-04-28,NBIS,Nebius,AI cloud & data-center,135.51
 2026-04-28,NVDA,Nvidia,AI semis,212.6839
-2026-04-28,SPY,S&P 500 (SPY),S&P 500,708.1029
+2026-04-28,SPY,S&P 500 (SPY),S&P 500,708.1028
 2026-04-29,AAPL,Apple,Big Tech,269.4839
 2026-04-29,AMD,AMD,AI semis,337.11
 2026-04-29,AMZN,Amazon,Big Tech,263.04
@@ -2166,12 +2166,12 @@ Date,ticker,name,group,close
 2026-04-29,AVGO,Broadcom,AI semis,404.0735
 2026-04-29,CORZ,Core Scientific,AI cloud & data-center,19.56
 2026-04-29,CRWV,CoreWeave,AI cloud & data-center,114.19
-2026-04-29,GOOGL,Alphabet,Big Tech,349.5065
+2026-04-29,GOOGL,Alphabet,Big Tech,349.5064
 2026-04-29,IREN,IREN,AI cloud & data-center,42.86
 2026-04-29,META,Meta,Big Tech,667.9733
 2026-04-29,MRVL,Marvell,AI semis,156.4972
 2026-04-29,MSFT,Microsoft,Big Tech,422.7468
-2026-04-29,MU,Micron,AI semis,518.2987
+2026-04-29,MU,Micron,AI semis,518.2988
 2026-04-29,NBIS,Nebius,AI cloud & data-center,141.19
 2026-04-29,NVDA,Nvidia,AI semis,208.7728
 2026-04-29,SPY,S&P 500 (SPY),S&P 500,707.9934
@@ -2235,7 +2235,7 @@ Date,ticker,name,group,close
 2026-05-05,META,Meta,Big Tech,603.9232
 2026-05-05,MRVL,Marvell,AI semis,168.6715
 2026-05-05,MSFT,Microsoft,Big Tech,409.7196
-2026-05-05,MU,Micron,AI semis,640.0008
+2026-05-05,MU,Micron,AI semis,640.0009
 2026-05-05,NBIS,Nebius,AI cloud & data-center,175.92
 2026-05-05,NVDA,Nvidia,AI semis,196.0519
 2026-05-05,SPY,S&P 500 (SPY),S&P 500,720.122
@@ -2251,7 +2251,7 @@ Date,ticker,name,group,close
 2026-05-06,META,Meta,Big Tech,611.8297
 2026-05-06,MRVL,Marvell,AI semis,172.0699
 2026-05-06,MSFT,Microsoft,Big Tech,412.2892
-2026-05-06,MU,Micron,AI semis,666.3826
+2026-05-06,MU,Micron,AI semis,666.3827
 2026-05-06,NBIS,Nebius,AI cloud & data-center,195.09
 2026-05-06,NVDA,Nvidia,AI semis,207.356
 2026-05-06,SPY,S&P 500 (SPY),S&P 500,730.1313
@@ -2283,11 +2283,11 @@ Date,ticker,name,group,close
 2026-05-08,META,Meta,Big Tech,608.5852
 2026-05-08,MRVL,Marvell,AI semis,170.0509
 2026-05-08,MSFT,Microsoft,Big Tech,413.4445
-2026-05-08,MU,Micron,AI semis,746.5777
+2026-05-08,MU,Micron,AI semis,746.5776
 2026-05-08,NBIS,Nebius,AI cloud & data-center,177.05
 2026-05-08,NVDA,Nvidia,AI semis,214.7092
 2026-05-08,SPY,S&P 500 (SPY),S&P 500,733.9022
-2026-05-11,AAPL,Apple,Big Tech,292.2058
+2026-05-11,AAPL,Apple,Big Tech,292.2057
 2026-05-11,AMD,AMD,AI semis,458.79
 2026-05-11,AMZN,Amazon,Big Tech,268.99
 2026-05-11,APLD,Applied Digital,AI cloud & data-center,44.59
@@ -2297,7 +2297,7 @@ Date,ticker,name,group,close
 2026-05-11,GOOGL,Alphabet,Big Tech,388.1585
 2026-05-11,IREN,IREN,AI cloud & data-center,55.15
 2026-05-11,META,Meta,Big Tech,597.8337
-2026-05-11,MRVL,Marvell,AI semis,170.7606
+2026-05-11,MRVL,Marvell,AI semis,170.7605
 2026-05-11,MSFT,Microsoft,Big Tech,410.9944
 2026-05-11,MU,Micron,AI semis,795.0826
 2026-05-11,NBIS,Nebius,AI cloud & data-center,186.1
@@ -2331,7 +2331,7 @@ Date,ticker,name,group,close
 2026-05-13,META,Meta,Big Tech,615.5732
 2026-05-13,MRVL,Marvell,AI semis,177.8672
 2026-05-13,MSFT,Microsoft,Big Tech,403.5745
-2026-05-13,MU,Micron,AI semis,803.38
+2026-05-13,MU,Micron,AI semis,803.3799
 2026-05-13,NBIS,Nebius,AI cloud & data-center,207.27
 2026-05-13,NVDA,Nvidia,AI semis,225.315
 2026-05-13,SPY,S&P 500 (SPY),S&P 500,738.5685
@@ -2398,7 +2398,7 @@ Date,ticker,name,group,close
 2026-05-19,MU,Micron,AI semis,698.5226
 2026-05-19,NBIS,Nebius,AI cloud & data-center,197.73
 2026-05-19,NVDA,Nvidia,AI semis,220.1069
-2026-05-19,SPY,S&P 500 (SPY),S&P 500,730.0317
+2026-05-19,SPY,S&P 500 (SPY),S&P 500,730.0318
 2026-05-20,AAPL,Apple,Big Tech,301.7603
 2026-05-20,AMD,AMD,AI semis,447.58
 2026-05-20,AMZN,Amazon,Big Tech,265.01
@@ -2470,15 +2470,15 @@ Date,ticker,name,group,close
 2026-05-27,AVGO,Broadcom,AI semis,420.4278
 2026-05-27,CORZ,Core Scientific,AI cloud & data-center,27.2
 2026-05-27,CRWV,CoreWeave,AI cloud & data-center,104.27
-2026-05-27,GOOGL,Alphabet,Big Tech,388.3482
+2026-05-27,GOOGL,Alphabet,Big Tech,388.3483
 2026-05-27,IREN,IREN,AI cloud & data-center,67.84
 2026-05-27,META,Meta,Big Tech,634.1713
 2026-05-27,MRVL,Marvell,AI semis,198.6076
 2026-05-27,MSFT,Microsoft,Big Tech,411.8946
-2026-05-27,MU,Micron,AI semis,928.1211
+2026-05-27,MU,Micron,AI semis,928.1212
 2026-05-27,NBIS,Nebius,AI cloud & data-center,208.37
 2026-05-27,NVDA,Nvidia,AI semis,212.1152
-2026-05-27,SPY,S&P 500 (SPY),S&P 500,746.6774
+2026-05-27,SPY,S&P 500 (SPY),S&P 500,746.6775
 2026-05-28,AAPL,Apple,Big Tech,312.0037
 2026-05-28,AMD,AMD,AI semis,518.09
 2026-05-28,AMZN,Amazon,Big Tech,274.0
@@ -2489,7 +2489,7 @@ Date,ticker,name,group,close
 2026-05-28,GOOGL,Alphabet,Big Tech,389.6467
 2026-05-28,IREN,IREN,AI cloud & data-center,64.05
 2026-05-28,META,Meta,Big Tech,634.2012
-2026-05-28,MRVL,Marvell,AI semis,204.7347
+2026-05-28,MRVL,Marvell,AI semis,204.7348
 2026-05-28,MSFT,Microsoft,Big Tech,426.1877
 2026-05-28,MU,Micron,AI semis,923.2327
 2026-05-28,NBIS,Nebius,AI cloud & data-center,226.34
@@ -2521,7 +2521,7 @@ Date,ticker,name,group,close
 2026-06-01,GOOGL,Alphabet,Big Tech,375.9037
 2026-06-01,IREN,IREN,AI cloud & data-center,65.33
 2026-06-01,META,Meta,Big Tech,599.4409
-2026-06-01,MRVL,Marvell,AI semis,219.3279
+2026-06-01,MRVL,Marvell,AI semis,219.328
 2026-06-01,MSFT,Microsoft,Big Tech,459.6547
 2026-06-01,MU,Micron,AI semis,1035.1779
 2026-06-01,NBIS,Nebius,AI cloud & data-center,264.51
@@ -2555,7 +2555,7 @@ Date,ticker,name,group,close
 2026-06-03,META,Meta,Big Tech,621.9124
 2026-06-03,MRVL,Marvell,AI semis,301.5097
 2026-06-03,MSFT,Microsoft,Big Tech,426.537
-2026-06-03,MU,Micron,AI semis,1079.234
+2026-06-03,MU,Micron,AI semis,1079.2341
 2026-06-03,NBIS,Nebius,AI cloud & data-center,251.68
 2026-06-03,NVDA,Nvidia,AI semis,214.2603
 2026-06-03,SPY,S&P 500 (SPY),S&P 500,750.4384
@@ -2571,7 +2571,7 @@ Date,ticker,name,group,close
 2026-06-04,META,Meta,Big Tech,626.4944
 2026-06-04,MRVL,Marvell,AI semis,316.2828
 2026-06-04,MSFT,Microsoft,Big Tech,427.2457
-2026-06-04,MU,Micron,AI semis,995.6901
+2026-06-04,MU,Micron,AI semis,995.6902
 2026-06-04,NBIS,Nebius,AI cloud & data-center,259.67
 2026-06-04,NVDA,Nvidia,AI semis,218.4156
 2026-06-04,SPY,S&P 500 (SPY),S&P 500,753.274
@@ -2587,7 +2587,7 @@ Date,ticker,name,group,close
 2026-06-05,META,Meta,Big Tech,591.9838
 2026-06-05,MRVL,Marvell,AI semis,263.3475
 2026-06-05,MSFT,Microsoft,Big Tech,415.8871
-2026-06-05,MU,Micron,AI semis,863.7411
+2026-06-05,MU,Micron,AI semis,863.7412
 2026-06-05,NBIS,Nebius,AI cloud & data-center,227.81
 2026-06-05,NVDA,Nvidia,AI semis,204.8708
 2026-06-05,SPY,S&P 500 (SPY),S&P 500,733.8325
@@ -2619,10 +2619,10 @@ Date,ticker,name,group,close
 2026-06-09,META,Meta,Big Tech,583.5881
 2026-06-09,MRVL,Marvell,AI semis,266.7559
 2026-06-09,MSFT,Microsoft,Big Tech,402.652
-2026-06-09,MU,Micron,AI semis,935.5988
+2026-06-09,MU,Micron,AI semis,935.5989
 2026-06-09,NBIS,Nebius,AI cloud & data-center,220.12
 2026-06-09,NVDA,Nvidia,AI semis,207.9573
-2026-06-09,SPY,S&P 500 (SPY),S&P 500,733.3351
+2026-06-09,SPY,S&P 500 (SPY),S&P 500,733.335
 2026-06-10,AAPL,Apple,Big Tech,291.1075
 2026-06-10,AMD,AMD,AI semis,452.4
 2026-06-10,AMZN,Amazon,Big Tech,238.0
@@ -2649,7 +2649,7 @@ Date,ticker,name,group,close
 2026-06-11,GOOGL,Alphabet,Big Tech,357.5402
 2026-06-11,IREN,IREN,AI cloud & data-center,56.71
 2026-06-11,META,Meta,Big Tech,567.4558
-2026-06-11,MRVL,Marvell,AI semis,280.5794
+2026-06-11,MRVL,Marvell,AI semis,280.5795
 2026-06-11,MSFT,Microsoft,Big Tech,389.6066
 2026-06-11,MU,Micron,AI semis,995.5602
 2026-06-11,NBIS,Nebius,AI cloud & data-center,222.24
@@ -2683,11 +2683,11 @@ Date,ticker,name,group,close
 2026-06-15,META,Meta,Big Tech,593.012
 2026-06-15,MRVL,Marvell,AI semis,308.7364
 2026-06-15,MSFT,Microsoft,Big Tech,399.0089
-2026-06-15,MU,Micron,AI semis,1087.6516
+2026-06-15,MU,Micron,AI semis,1087.6515
 2026-06-15,NBIS,Nebius,AI cloud & data-center,260.07
 2026-06-15,NVDA,Nvidia,AI semis,212.2125
 2026-06-15,SPY,S&P 500 (SPY),S&P 500,751.0255
-2026-06-16,AAPL,Apple,Big Tech,298.7552
+2026-06-16,AAPL,Apple,Big Tech,298.7551
 2026-06-16,AMD,AMD,AI semis,507.29
 2026-06-16,AMZN,Amazon,Big Tech,246.0
 2026-06-16,APLD,Applied Digital,AI cloud & data-center,46.27
@@ -2713,13 +2713,13 @@ Date,ticker,name,group,close
 2026-06-17,GOOGL,Alphabet,Big Tech,363.5563
 2026-06-17,IREN,IREN,AI cloud & data-center,58.11
 2026-06-17,META,Meta,Big Tech,567.1324
-2026-06-17,MRVL,Marvell,AI semis,289.4054
+2026-06-17,MRVL,Marvell,AI semis,289.4053
 2026-06-17,MSFT,Microsoft,Big Tech,378.198
 2026-06-17,MU,Micron,AI semis,1042.8654
 2026-06-17,NBIS,Nebius,AI cloud & data-center,280.91
 2026-06-17,NVDA,Nvidia,AI semis,204.4212
 2026-06-17,SPY,S&P 500 (SPY),S&P 500,737.2253
-2026-06-18,AAPL,Apple,Big Tech,297.5271
+2026-06-18,AAPL,Apple,Big Tech,297.5272
 2026-06-18,AMD,AMD,AI semis,537.37
 2026-06-18,AMZN,Amazon,Big Tech,244.39
 2026-06-18,APLD,Applied Digital,AI cloud & data-center,46.59
@@ -2731,7 +2731,7 @@ Date,ticker,name,group,close
 2026-06-18,META,Meta,Big Tech,576.7648
 2026-06-18,MRVL,Marvell,AI semis,310.4355
 2026-06-18,MSFT,Microsoft,Big Tech,378.6871
-2026-06-18,MU,Micron,AI semis,1133.6372
+2026-06-18,MU,Micron,AI semis,1133.6371
 2026-06-18,NBIS,Nebius,AI cloud & data-center,286.69
 2026-06-18,NVDA,Nvidia,AI semis,210.4545
 2026-06-18,SPY,S&P 500 (SPY),S&P 500,744.8903
@@ -2747,7 +2747,7 @@ Date,ticker,name,group,close
 2026-06-22,META,Meta,Big Tech,563.4053
 2026-06-22,MRVL,Marvell,AI semis,307.7168
 2026-06-22,MSFT,Microsoft,Big Tech,366.6498
-2026-06-22,MU,Micron,AI semis,1211.0031
+2026-06-22,MU,Micron,AI semis,1211.0032
 2026-06-22,NBIS,Nebius,AI cloud & data-center,283.61
 2026-06-22,NVDA,Nvidia,AI semis,208.4168
 2026-06-22,SPY,S&P 500 (SPY),S&P 500,742.5461
@@ -2777,9 +2777,9 @@ Date,ticker,name,group,close
 2026-06-24,GOOGL,Alphabet,Big Tech,345.0682
 2026-06-24,IREN,IREN,AI cloud & data-center,50.3
 2026-06-24,META,Meta,Big Tech,557.2302
-2026-06-24,MRVL,Marvell,AI semis,276.5714
+2026-06-24,MRVL,Marvell,AI semis,276.5713
 2026-06-24,MSFT,Microsoft,Big Tech,364.7733
-2026-06-24,MU,Micron,AI semis,1048.1837
+2026-06-24,MU,Micron,AI semis,1048.1838
 2026-06-24,NBIS,Nebius,AI cloud & data-center,259.66
 2026-06-24,NVDA,Nvidia,AI semis,198.7776
 2026-06-24,SPY,S&P 500 (SPY),S&P 500,731.4237
@@ -2811,7 +2811,7 @@ Date,ticker,name,group,close
 2026-06-26,META,Meta,Big Tech,549.8161
 2026-06-26,MRVL,Marvell,AI semis,266.6459
 2026-06-26,MSFT,Microsoft,Big Tech,372.2692
-2026-06-26,MU,Micron,AI semis,1131.9777
+2026-06-26,MU,Micron,AI semis,1131.9778
 2026-06-26,NBIS,Nebius,AI cloud & data-center,240.3
 2026-06-26,NVDA,Nvidia,AI semis,192.3148
 2026-06-26,SPY,S&P 500 (SPY),S&P 500,727.1843
@@ -2859,7 +2859,7 @@ Date,ticker,name,group,close
 2026-07-01,META,Meta,Big Tech,612.4266
 2026-07-01,MRVL,Marvell,AI semis,271.9235
 2026-07-01,MSFT,Microsoft,Big Tech,383.558
-2026-07-01,MU,Micron,AI semis,1031.9589
+2026-07-01,MU,Micron,AI semis,1031.959
 2026-07-01,NBIS,Nebius,AI cloud & data-center,229.18
 2026-07-01,NVDA,Nvidia,AI semis,197.3592
 2026-07-01,SPY,S&P 500 (SPY),S&P 500,743.9127
@@ -2921,7 +2921,7 @@ Date,ticker,name,group,close
 2026-07-08,GOOGL,Alphabet,Big Tech,361.6875
 2026-07-08,IREN,IREN,AI cloud & data-center,43.005
 2026-07-08,META,Meta,Big Tech,602.6444
-2026-07-08,MRVL,Marvell,AI semis,231.6023
+2026-07-08,MRVL,Marvell,AI semis,231.6022
 2026-07-08,MSFT,Microsoft,Big Tech,382.6197
 2026-07-08,MU,Micron,AI semis,948.6507
 2026-07-08,NBIS,Nebius,AI cloud & data-center,216.48
@@ -2959,7 +2959,7 @@ Date,ticker,name,group,close
 2026-07-10,NBIS,Nebius,AI cloud & data-center,219.65
 2026-07-10,NVDA,Nvidia,AI semis,210.7242
 2026-07-10,SPY,S&P 500 (SPY),S&P 500,753.08
-2026-07-13,AAPL,Apple,Big Tech,316.7958
+2026-07-13,AAPL,Apple,Big Tech,316.7959
 2026-07-13,AMD,AMD,AI semis,534.39
 2026-07-13,AMZN,Amazon,Big Tech,247.31
 2026-07-13,APLD,Applied Digital,AI cloud & data-center,28.84
@@ -3135,7 +3135,7 @@ Date,ticker,name,group,close
 2026-07-27,NBIS,Nebius,AI cloud & data-center,187.88
 2026-07-27,NVDA,Nvidia,AI semis,196.2904
 2026-07-27,SPY,S&P 500 (SPY),S&P 500,737.2593
-2026-07-28,AAPL,Apple,Big Tech,339.5289
+2026-07-28,AAPL,Apple,Big Tech,339.529
 2026-07-28,AMD,AMD,AI semis,454.62
 2026-07-28,AMZN,Amazon,Big Tech,230.86
 2026-07-28,APLD,Applied Digital,AI cloud & data-center,26.62
