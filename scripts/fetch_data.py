@@ -12,8 +12,12 @@ GROUPS = {
     },
     "AI semis": {
         "NVDA": "Nvidia", "AVGO": "Broadcom", "AMD": "AMD",
-        "MU": "Micron", "MRVL": "Marvell",
-    },
+        "MU": "Micron", "MRVL": "Marvell", "TSM": "TSMC",
+},
+    "AI power": {
+        "VRT": "Vertiv", "GEV": "GE Vernova", "CEG": "Constellation",
+        "VST": "Vistra", "ETN": "Eaton",
+},
     "AI cloud & data-center": {
         "IREN": "IREN", "CORZ": "Core Scientific", "APLD": "Applied Digital",
         "CRWV": "CoreWeave", "NBIS": "Nebius",
